@@ -1,0 +1,6 @@
+This is a very simple implementation of a heat equation solver with Robin
+boundary condition. The code was used as a part of a course paper (see 
+harjtyo.pdf, in Finnish) on the book
+
+Stig Larsson, Vidar Thomee: Partial Differential Equations with Numerical 
+Methods, Springer.
